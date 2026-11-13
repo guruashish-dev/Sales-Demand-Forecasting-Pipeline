@@ -1,4 +1,4 @@
-# Sales/Demand Forecasting Project
+# Sales/Demand Forecasting Pipeline
 
 This project builds a **business-ready sales forecasting pipeline** using historical daily sales data.
 
